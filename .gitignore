@@ -1,0 +1,4 @@
+*.db
+./postgresql-data
+*-packr.go
+config.json
